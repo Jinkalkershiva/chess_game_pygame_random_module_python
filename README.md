@@ -22,11 +22,11 @@ Chess is a strategy game played between two players, and this project brings the
 6. The chessboard window will open, and you can start playing as white.
 
 ## Features
-- 🎨 Chessboard drawn with Pygame graphics  
-- ♟️ Chess pieces represented using image files  
-- 🖱️ Click-to-select and move pieces for white  
-- 🤖 Simple AI for black (random valid moves)  
-- 🔲 Highlighting of selected piece and valid moves  
+- Chessboard drawn with Pygame graphics  
+- Chess pieces represented using image files  
+- Click-to-select and move pieces for white  
+- Simple AI for black (random valid moves)  
+- Highlighting of selected piece and valid moves  
 
 ## Author
 - **Name:** Jinkalker Shiva  
