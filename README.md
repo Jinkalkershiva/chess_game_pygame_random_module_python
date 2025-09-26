@@ -16,7 +16,7 @@ Chess is a strategy game played between two players, and this project brings the
 ## How to Run
 1. Install Python 3 (preferably Python 3.8 or higher).  
 2. Install Pygame: (pip install pygame.)
-3. Clone or download this repository. (git clone provide_link_the_project) 
+3. Clone or download this repository. (git clone provide_https_link_the_git_project) 
 4. Ensure the folder `images/` is present in the same directory as the code and contains all required chess piece images:  
 5. Run the program:  
 6. The chessboard window will open, and you can start playing as white.
